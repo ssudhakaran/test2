@@ -1,22 +1,86 @@
-{
-    "glossary": {
-        "title": "SHIBI",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
-    }
-}
+"compliance.cfpb.disclosure.error.action" = "موافق";
+"compliance.cfpb.disclosure.error.message" = "يبدو أن خطأ ما قد حدث لدينا.";
+"compliance.cfpb.disclosure.error.title" = "نعتذر عن ذلك";
+"compliance.cfpb.disclosure.success.action" = "تم";
+"compliance.cfpb.disclosure.success.title" = "لقد أصبح حسابك جاهزاً";
+"compliance.cfpb.moneyStillWaitingAlert.button.back" = "موافق";
+"compliance.cfpb.moneyStillWaitingAlert.button.continue" = "إلغاء";
+"compliance.cfpb.moneyStillWaitingAlert.subtitle" = "يمكنك دائماً تغيير ذلك لاحقاً.";
+"compliance.cfpb.moneyStillWaitingAlert.title" = "هل أنت متأكد؟";
+"compliance.cip.addfunds.success.button" = "التالي";
+"compliance.cip.addfunds.success.message" = "أضِف مبالغ مالية إلى رصيدك على PayPal Cash. ثم أرسلها أو أنفقها أو ادخرها للترفيه.";
+"compliance.cip.addfunds.success.title" = "لديك الآن كل ما يلزم!";
+"compliance.cip.addfunds.systemerror.done.button" = "موافق";
+"compliance.cip.confirm.identity.nav.title" = "تأكيد هُويتك";
+"compliance.cip.docupload.aborted.home.button" = "عودة إلى الموجز";
+"compliance.cip.docupload.aborted.keep.going.button" = "المتابعة";
+"compliance.cip.docupload.aborted.primary.label" = "هل أنت متأكد؟";
+"compliance.cip.docupload.aborted.secondary.label" = "لن تتمكن من إرسال أو إنفاق المبالغ المالية المتاحة في حسابك على PayPal، إلا إذا قمت بتأكيد معلوماتك.";
+"compliance.cip.docupload.aborted.secondary.label+cfpb" = "لن تتمكن من إرسال أو إنفاق المبالغ المالية المتاحة في حسابك، إلا إذا قمت بتأكيد معلوماتك.";
+"compliance.cip.docupload.sendMoney.aborted.home.button" = "عودة إلى إرسال المدفوعات";
+"compliance.cip.docupload.sendMoney.aborted.keep.going.button" = "التأكيد الآن";
+"compliance.cip.docupload.sendMoney.aborted.primary.label" = "هل أنت متأكد؟";
+"compliance.cip.docupload.sendMoney.aborted.secondary.label" = "قم بتأكيد معلوماتك الآن حتى تتمكن من إرسال أو إنفاق المبالغ المالية في حسابك على PayPal. وإذا لم تقم بهذا، يمكنك تحويل الأموال في أي وقت إلى حسابك البنكي من \"الموجز\".\n\nإذا كنت تريد إرسال مبالغ مالية في الحال، فجرّب استخدام حساب بنكي مربوط أو بطاقة مربوطة.";
+"compliance.cip.docupload.sendMoney.aborted.secondary.label+cfpb" = "أكّد معلوماتك الآن حتى تتمكن من إرسال أو إنفاق المبالغ المالية في رصيدك. وإذا لم تقم بهذا، يمكنك تحويل الأموال في أي وقت إلى حسابك البنكي من \"الموجز\".\n\nإذا كنت تريد إرسال مبالغ مالية في الحال، فجرّب استخدام حساب بنكي مربوط أو بطاقة مربوطة.";
+"compliance.cip.docupload.sendMoney.success.primary.label" = "شكراً لك على إرسال معلوماتك";
+"compliance.cip.docupload.sendMoney.success.secondary.label" = "سوف نرسل لك رسالة إلكترونية بمجرد الانتهاء من مراجعة معلوماتك. عادةً ما يستغرق ذلك من يومي إلى 3 أيام عمل.";
+"compliance.cip.docupload.success.primary.label" = "شكراً لك على إرسال معلوماتك";
+"compliance.cip.docupload.success.secondary.bottom.label" = "في أثناء فترة انتظارك، يمكنك دائماً تحويل مبالغ مالية إلى حسابك البنكي.";
+"compliance.cip.docupload.success.secondary.label" = "سوف نرسل لك رسالة إلكترونية بمجرد الانتهاء من مراجعة مستنداتك. في بعض الأحيان، قد يستغرق هذا من يومي إلى 3 أيام عمل";
+"compliance.cip.failure.decline.done.button" = "تحويل إلى حسابك البنكي";
+"compliance.cip.failure.decline.primary.label" = "تعذر علينا التأكد من معلوماتك";
+"compliance.cip.failure.decline.secondary.label" = "في الوقت الحالي، يمكنك تحويل المبالغ المالية إلى حسابك البنكي.";
+"compliance.cip.failure.systemerror.done.button" = "تحويل إلى حسابك البنكي";
+"compliance.cip.failure.systemerror.primary.label" = "نعتذر عن ذلك…";
+"compliance.cip.failure.systemerror.secondary.label" = "يبدو أن خطأ ما قد حدث لدينا.";
+"compliance.cip.info.body.subtitle" = "التأكد من هويات عملائنا هو إحدى الطرق التي نتبعها لحماية حسابك. ستقوم بهذا مرة واحدة فقط.";
+"compliance.cip.info.body.title" = "يلزم فقط بعض المعلومات الإضافية";
+"compliance.cip.info.failed.idCapture.body.subtitle" = "نواجه صعوبة في تأكيد هويتك. دعنا نجرب طريقةً أخرى.";
+"compliance.cip.info.failed.idCapture.body.title" = "يلزم بعض المعلومات الإضافية";
+"compliance.cip.info.idCapture.body.subtitle" = "التأكد من هويات عملائنا هو إحدى الطرق التي نتبعها لحماية حسابك. عليك القيام بذلك مرة واحدة فقط.";
+"compliance.cip.info.idCapture.body.title" = "يلزم فقط بعض المعلومات الإضافية";
+"compliance.cip.info.idCapture.infoView.networkError.infoSubtitle" = "يبدو أنه قد حدث خطأ من طرفنا. أعد المحاولة خلال دقيقة أو دقيقتين.";
+"compliance.cip.info.idCapture.infoView.networkError.infoTitle" = "عذراً...";
+"compliance.cip.info.idCapture.infoView.networkError.nextActionButtonTitle" = "تم";
+"compliance.cip.info.idCapture.interstitial.areYouSureAlert.cancel" = "إلغاء";
+"compliance.cip.info.idCapture.interstitial.areYouSureAlert.goToSummary" = "الانتقال إلى الموجز";
+"compliance.cip.info.idCapture.interstitial.areYouSureAlert.message" = "سوف نُخطرك بالمستجدات فور انتهائنا.";
+"compliance.cip.info.idCapture.interstitial.areYouSureAlert.title" = "هل أنت متأكد؟";
+"compliance.cip.info.idCapture.interstitial.cellsHeader.label" = "بمجرد تأكيد معلوماتك، يمكنك...";
+"compliance.cip.info.idCapture.interstitial.checkingInfo.title.label" = "جارٍ التحقق من معلوماتك";
+"compliance.cip.info.idCapture.interstitial.entertainmentCell.funMoney.label" = "ادِّخار مبلغ لنشاطات الترفيه";
+"compliance.cip.info.idCapture.interstitial.entertainmentCell.makePurchases.label" = "التسوق بأمان عند تلقي المدفوعات";
+"compliance.cip.info.idCapture.interstitial.entertainmentCell.sendMoney.label" = "إرسال مدفوعات إلى الأصدقاء مباشرةً من PayPal";
+"compliance.cip.info.idCapture.interstitial.paypalIconOutlines.accessibilityLabel" = "أيقونة Paypal مع الخطوط العامة";
+"compliance.cip.info.idCapture.interstitial.phoneIcon.accessibilityLabel" = "أيقونة الهاتف";
+"compliance.cip.info.idCapture.interstitial.shoppingIcon.accessibilityLabel" = "أيقونة سلة التسوق";
+"compliance.cip.info.idCapture.interstitial.spinnerHolder.accessibilityLabel" = "أيقونة دوار التحميل";
+"compliance.cip.info.idCapture.interstitial.subTitle.label" = "قد يستغرق ذلك دقيقة.";
+"compliance.cip.info.idCapture.interstitial.uploading.title.label" = "جارٍ التحميل...";
+"compliance.cip.info.idCapture.interstitial.warning.label" = "يُرجى ترك التطبيق مفتوحاً.";
+"compliance.cip.info.idCapture.primary.button" = "استخدام رخصة القيادة";
+"compliance.cip.info.idCapture.review.infoSubtitle" = "تأكد من أن معلوماتك واضحة_ غير باهتة، أو ساطعة، أو مظللة.";
+"compliance.cip.info.idCapture.review.infoTitle" = "هل تبدو مناسبة؟";
+"compliance.cip.info.idCapture.review.retake.button" = "التقاط صورة أخرى";
+"compliance.cip.info.idCapture.review.upload.button" = "تحميل";
+"compliance.cip.info.idCapture.secondary.button" = "استخدام رقم الضمان الاجتماعي الخاص بك، بدلاً من ذلك";
+"compliance.cip.info.nav.title" = "تأكيد هويتك";
+"compliance.cip.info.next.button" = "التالي";
+"compliance.cip.info.sendMoney.body.subtitle" = "يمكنك بعد ذلك بسهولة إرسال أو إنفاق أو توفير أموالك التي لم تتم المطالبة بها وأي مدفوعات أخرى قد تتلقاها.";
+"compliance.cip.info.sendMoney.body.title" = "أنشئ رصيداً على PayPal من خلال عملية تأكيد سريعة تُجرى مرة واحدة";
+"compliance.cip.info.sendMoney.next.button" = "التالي";
+"compliance.cip.info.timeout.infoSubtitle" = "قد يستغرق الأمر وقتاً أطول بقليلٍ من المتوقع. سنرسل لك إشعاراً بعد الانتهاء من مراجعة معلوماتك. تحقق من استلامه في غضون الخمس دقائق التالية.";
+"compliance.cip.info.timeout.infoTitle" = "سوف نرسل إليك رسالة بالمستجدات";
+"compliance.cip.info.timeout.nextActionButtonTitle" = "تم";
+"compliance.cip.info.userVerified.infoSubtitle+cfpb" = "المبالغ المالية متاحة الآن في رصيدك. يمكنك إرسالها أو إنفاقها أو ادخارها سراً للترفيه.";
+"compliance.cip.info.userVerified.infoTitle" = "الآن أتممتَ كل ما يلزم";
+"compliance.cip.info.userVerified.nextActionButtonTitle" = "تم";
+"compliance.cip.preemptive.docupload.success.primary.label" = "شكراً لك على إرسال معلوماتك";
+"compliance.cip.preemptive.docupload.success.secondary.label" = "سوف نرسل لك رسالة إلكترونية بمجرد الانتهاء من مراجعة مستنداتك. عادةً ما يستغرق ذلك من يومي إلى 3 أيام عمل.";
+"compliance.cip.preemptive.failure.decline.done.button" = "تم";
+"compliance.cip.preemptive.failure.systemerror.done.button" = "موافق";
+"compliance.cip.success.done.button" = "تم";
+"compliance.cip.success.primary.label" = "شكراً! لقد أتممت كل ما يلزم";
+"compliance.cip.success.secondary.label" = "الأموال متاحة الآن في رصيدك على PayPal. يمكنك إرسالها أو إنفاقها أو ادخارها للترفيه.";
+"compliance.cip.success.secondary.label+cfpb" = "المبالغ المالية متاحة الآن في رصيدك. يمكنك إرسالها أو إنفاقها أو ادخارها للترفيه.";
+"compliance.cip.success.withdraw.button" = "تحويل إلى حساب بنكي";
